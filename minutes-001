@@ -1,0 +1,33 @@
+Consumer
+
+P1
+  service locator and availability - listing, search, map locator
+  order tracking - status/stage of order with timelines
+  communication with service provider - automated notifications, preferred modes - sms/email/whatsapp
+
+P2
+  service ratings - ratings associated with order and service provider
+  rating score like answer score in stackoverflow - +/-1 for ratings by other consumers
+  payment via UPI - integration with UPI apps
+  
+P3
+  home delivery
+  requirement at door step - service provider visits for requirements
+  service request
+  
+  
+Service provider
+
+P1
+  services/skills catalogue - setting up space, types of work, photos, pricing
+  order management - orders linked with consumer, skills, setting up customized stages and timelines
+  communication with consumer - automated notifications
+  
+P2
+  material resource management - material resource inventory, linked with orders, automated notifications on low resource 
+  payment via UPI
+  invoicing - compliant with govt mandates
+  
+P3
+  capacity management
+  owner overview for multiple branches
